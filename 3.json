@@ -343,7 +343,10 @@
                     }
                 },
                 "settings": {
-                    "compose": {
+                    "docker":{
+                        "port": "2375"
+                    },
+                     "compose": {
                         "haproxy": {
                             "image": "tutum/haproxy:0.1",
                             "ports": [
