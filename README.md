@@ -4,7 +4,7 @@
 
 CentOS host VM + Azure Docker agent
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonhutson%2Fsazuredocker%2Fmaster%2F2.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonhutson%2Fazuredocker%2Fmaster%2F2.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
