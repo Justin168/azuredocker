@@ -290,6 +290,9 @@
                     }
                 },
                 "settings": {
+                    "docker":{
+                        "port": "2375"
+                    },
                     "compose": {
                         "wordpress": {
                             "image": "wordpress:4.4-apache",
