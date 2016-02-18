@@ -254,6 +254,9 @@
                 "autoUpgradeMinorVersion": true,
                 "protectedSettings": { },
                 "settings": {
+                    "docker":{
+                        "port": "2375"
+                    },
                     "compose": {
                         "hello-world": {
                             "image": "hello-world"
