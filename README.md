@@ -21,3 +21,9 @@ CentOS host VM + Azure Docker agent + official WordPress and MySQL Docker images
 </a>
 
 Windows Server 2016 host VM + Docker
+
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonhutson%2Fazuredocker%2Fmaster%2F5.json" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
+
+Azure Container Services Public Preview
