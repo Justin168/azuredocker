@@ -280,10 +280,10 @@
             }
         },
         {
-          "name": "containerConfiguration",
-          "type": "extensions",
-          "location": "[parameters('location')]",
+          "type": "Microsoft.Compute/virtualMachines/extensions",
+          "name": "[concat(variables('vmName'), '/ContainerConfiguration')]",
           "apiVersion": "2015-06-15",
+          "location": "[parameters('location')]",
           "dependsOn": [
             "[concat('Microsoft.Compute/virtualMachines/', parameters('vmName'))]"
           ],
@@ -300,7 +300,6 @@
             }
           }
         }
-        
     ]
 }
 
