@@ -90,8 +90,8 @@
     },
     "variables": {
         "imagePublisher": "Canonical",
-        "imageOffer": "Ubuntu",
-        "imageOSVersion": "14.04 LTS",
+        "imageOffer": "UbuntuServer",
+        "imageOSVersion": "14.04.5-LTS",
         "OSDiskName": "[concat(parameters('prefix'),'osdisk')]",
         "dataDiskSize": "127",
         "dnsName": "[parameters('prefix')]",
