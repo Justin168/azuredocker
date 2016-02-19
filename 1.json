@@ -91,7 +91,7 @@
     "variables": {
         "imagePublisher": "Canonical",
         "imageOffer": "UbuntuServer",
-        "imageOSVersion": "14.04.5-LTS",
+        "imageOSVersion": "12.04.5-LTS",
         "OSDiskName": "[concat(parameters('prefix'),'osdisk')]",
         "dataDiskSize": "127",
         "dnsName": "[parameters('prefix')]",
