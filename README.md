@@ -2,13 +2,13 @@
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-CentOS host VM + Azure Docker agent
+Ubuntu host VM + Azure Docker agent
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonhutson%2Fazuredocker%2Fmaster%2F2.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-CentOS host VM + Azure Docker agent + official WordPress and MySQL Docker images
+Ubuntu host VM + Azure Docker agent + official WordPress and MySQL Docker images
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonhutson%2Fazuredocker%2Fmaster%2F3.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
@@ -16,8 +16,8 @@ CentOS host VM + Azure Docker agent + official WordPress and MySQL Docker images
 
 CentOS host VM + Azure Docker agent + official WordPress and MySQL Docker images + high availbility and disk IO performace
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonhutson%2Fazuredocker%2Fmaster%2Fazuredeploycustom.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonhutson%2Fazuredocker%2Fmaster%2F4.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-CentOS host VM + Azure Docker agent + custom WordPress and MySQL Docker images
+Windows Server 2016 host VM + Docker
