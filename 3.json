@@ -122,9 +122,9 @@
         }
     },
     "variables": {
-        "imagePublisher": "OpenLogic",
-        "imageOffer": "CentOS",
-        "imageOSVersion": "7.1",
+        "imagePublisher": "Canonical",
+        "imageOffer": "UbuntuServer",
+        "imageOSVersion": "14.04.3-LTS",
         "OSDiskName": "[concat(parameters('prefix'),'osdisk')]",
         "dataDiskSize": "127",
         "dnsName": "[parameters('prefix')]",
